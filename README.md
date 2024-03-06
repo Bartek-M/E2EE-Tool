@@ -1,1 +1,1 @@
-# E2EE Chat
+# E2EE Tool
